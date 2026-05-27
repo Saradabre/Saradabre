@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sara Sylvester Dabre  
 
-🎯 **Data Science | MSc Data Science & Analytics (University of Westminster)**  
+🎯 **AI and Data Engineer Intern at COS | MSc Data Science & Analytics (University of Westminster)**  
 📍 London, United Kingdom  
 📫 [LinkedIn](https://www.linkedin.com/in/saradabre/) | 📧 saradabre1234@gmail.com  
 
