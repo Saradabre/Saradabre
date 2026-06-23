@@ -12,7 +12,7 @@ I specialize in using data-driven approaches to solve business problems, uncover
 
 - 🔭 Currently exploring **Machine Learning**, **Deep Learning**, and **NLP** applications  
 - 🌱 Passionate about **AI-driven decision-making** and **data storytelling**  
-- 💬 Ask me about **Python, SQL, Machine Learning, or Data Visualization**  
+- 💬 Ask me about **Python, SQL, Machine Learning, or Data Visualisation**  
 - ⚡ Fun fact: I see datasets as stories waiting to be told!  
 
 ---
