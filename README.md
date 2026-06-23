@@ -4,12 +4,12 @@
 🎓 **MSc Data Science & Analytics** | University of Westminster  
 📍 London, United Kingdom  
 
-📫 **Connect with me:** [LinkedIn](https://uk.linkedin.com/in/sara-dabre-a651a021b) | 📧 [saradabre1234@gmail.com](mailto:saradabre1234@gmail.com)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/saradabre) | 📧 [saradabre1234@gmail.com](mailto:saradabre1234@gmail.com)
 
 ---
 
 ## 👩‍💻 About Me
-I’m a Data Scientist with a strong foundation in Mathematics, Statistics, and Applied Computing. I specialize in using data-driven approaches to solve business problems, uncover insights, and build predictive models that make an impact.
+I’m a Data Scientist with a strong foundation in Mathematics, Statistics, and Applied Computing. I specialise in using data-driven approaches to solve business problems, uncover insights, and build predictive models that make an impact.
 
 * 🔭 **Currently exploring:** Machine Learning, Deep Learning, and NLP applications
 * 🌱 **Passionate about:** AI-driven decision-making and data storytelling
@@ -42,7 +42,7 @@ I’m a Data Scientist with a strong foundation in Mathematics, Statistics, and 
 * Performed data cleaning, feature scaling, and model evaluation using $R^2$ and RMSE to assess accuracy.
 
 ### 💹 Stock Market Analysis
-* Developed time-series analysis and visualizations to identify stock performance trends.
+* Developed time-series analysis and visualisations to identify stock performance trends.
 * Used Python, Pandas, and Matplotlib to analyze closing prices, moving averages, and daily returns.
 * Generated insights to help understand stock volatility and market movement patterns.
 
@@ -56,7 +56,7 @@ I’m a Data Scientist with a strong foundation in Mathematics, Statistics, and 
 
 ### 🚘 Tesla Model 3 Sentiment Analysis
 * Applied NLP techniques to analyze social media sentiment around Tesla’s Model 3.
-* Performed text preprocessing, tokenization, and sentiment scoring using Python NLP libraries.
+* Performed text preprocessing, tokenisation, and sentiment scoring using Python NLP libraries.
 ---
 
 ### 🎓 Education
