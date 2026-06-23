@@ -65,7 +65,7 @@ Performed **text preprocessing**, **tokenization**, and **sentiment scoring** us
 ### 🏅 Certifications
 - Data Analytics Essentials  
 - Tableau for Data Scientists  
-- Data Visualization: Storytelling  
+- Data Visualisation: Storytelling  
 - The Fundamentals of Digital Marketing  
 
 ---
