@@ -2,7 +2,7 @@
 
 🎯 **AI and Data Analyst Intern** at COS  
 🎓 **MSc Data Science & Analytics** | University of Westminster  
-📍 London, United Kingdom  
+📍 Mumbai, India 
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/saradabre) | 📧 [saradabre1234@gmail.com](mailto:saradabre1234@gmail.com)
 
